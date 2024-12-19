@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b2dafc,15:a1d4ff,30:8dcbff,75:7fc4fe,100:6ebdff&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-## hoddeok07
+# hoddeok07
 - :computer: Web Backend Engineer
 - :wave: Korean (English, Japanese :ok:)
 - :e-mail: hoddeok.dev@gmail.com
@@ -31,6 +31,21 @@
 </div>
 
 <br>
+
+## Statistics
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoddeok07&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=hoddeok07&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoddeok07&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
+
+<br>
+<br>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:b2dafc,15:a1d4ff,30:8dcbff,75:7fc4fe,100:6ebdff&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
 <!--

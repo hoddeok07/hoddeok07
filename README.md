@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b2dafc,15:a1d4ff,30:8dcbff,75:7fc4fe,100:6ebdff&height=100&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:b2dafc,15:a1d4ff,30:8dcbff,75:7fc4fe,100:6ebdff&height=120&section=header&text=&fontSize=0" width="100%"/>
 
 # hoddeok07
 - :computer: Web Backend Engineer

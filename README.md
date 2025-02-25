@@ -2,7 +2,7 @@
 
 # hoddeok07
 - :computer: Web Backend Engineer
-- :wave: Korean (English, Japanese :ok:)
+- :wave: Korean (English :ok:)
 - :e-mail: hoddeok.dev@gmail.com
 
 <br>
